@@ -1,4 +1,4 @@
-# Hi, I'm Vannputhika 👋  
+# Hi, I'm Vannputhika
 
 Software Engineering student · Product-minded builder  
 
@@ -69,7 +69,7 @@ I value solutions that are technically sound, user-centered, and aligned with re
 ## 📫 Let’s connect
 - GitHub: you’re already here 🙂  
 - LinkedIn: *https://www.linkedin.com/in/vannputhika*
-- Portfolio: *vannputhika.studio*
+- Portfolio: *[vannputhika.studio](https://www.vannputhika.studio/)*
 
 ---
 
